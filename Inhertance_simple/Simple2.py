@@ -22,6 +22,6 @@ p = Person('Trishala', 45)
 # class Person using its instance
 p.display()
 
-e = Employee('trish', 44, 200000, "Developer")
+e = Employee('trish', 44, 20000, "Developer")
 # calling a function of the class Person using its instance
 e.display()
