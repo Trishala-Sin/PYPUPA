@@ -1,3 +1,5 @@
+
+
 # Single Inheritance : only 1 child
 
 # Base or Super class. Note object in bracket.
@@ -6,30 +8,28 @@
 # equivalent to "class Person(object)"
 
 
-class person:
-    # Constructor
-    def __init__(self,name):
+class Person(object):
+    def __init__(self, name):
         self.name = name
-    # To get name
-    def getname(self):
-        return self.name
-    # To checkk if the person is employee
-    def isEmployee(self):
-        return False
+
+    def displayname(self):
+        print("Person Name is ", self.name)
 
 
-# Inherited or Subclass (Note Person in bracket)
 class Employee(Person):
+    def __init__(self, name, id):
+        # self.name = name
+        # invoking the __init__ of the parent class
+        # Person.__init__(self, name)
+        super().__init__(name)
+        self.id = id
+        pass
 
-    # Here we return true
-    def isEmployee(self):
-        return True
+    def displayname(self):
+        print("Employee Name is", self.name)
 
 
-# Driver code
-emp = Person("Geek1")  # An Object of Person
-print(emp.getName(), emp.isEmployee())
-
-emp = Employee("Geek2")  # An Object of Employee
-print(emp.getName(), emp.isEmployee())
-
+person1 = Person('Trishala')
+person1.displayname()
+person2 = Employee('Trisha', 1)
+person2.displayname()
