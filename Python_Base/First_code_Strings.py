@@ -18,8 +18,6 @@ def concat_strings(s,n):
 
 H = concat_strings('trish ',4)
 
-print(H)
-
 # Another method using list and at the end using Join() to combine element of list:
 
 def combine_strings(s,n):
@@ -30,4 +28,7 @@ def combine_strings(s,n):
         i +=1
     return ''.join(l)
 J = combine_strings('chick ',6)
-print(J)
+
+if __name__ == "__main__":
+    print("String Append Using + :: ", H)
+    print("String Append Using Join() method:: ",J )
