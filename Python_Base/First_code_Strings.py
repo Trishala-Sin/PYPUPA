@@ -11,7 +11,7 @@
 def concat_strings(s,n):
     output = ''
     i= 0
-    while i < n:
+    while i < n: 
         output += s
         i +=1
     return output
@@ -48,7 +48,7 @@ def reverse_slice(str1):
 
 L = reverse_slice(ex1)
 
-# Reversing the string using While Loop :
+# Reversing the string using While Loop   :
 def reverse_while(str1):
     ln =len(str1)-1
     s = ""
@@ -76,8 +76,8 @@ P = reverse_recurr(ex1)
 
 
 if __name__ == "__main__":
-    print("\nString Append Using + :: ", H)
-    print("\nString Append Using Join() method:: ",J )
+    print("\n String Append Using + :: ", H)
+    print("\n String Append Using Join() method:: ",J )
     print("\n Reversing String using For loop ::",K)
     print("\n Reversing String using Slicing ::", L)
     print("\n Reversing String using while loop ::", L)
