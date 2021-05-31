@@ -2,10 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="242a7f20-7944-4405-9dc6-a747622b5753" name="Default Changelist" comment="this is extra">
-      <change afterPath="$PROJECT_DIR$/Dictionary_explored.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/PYPUPA.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/PYPUPA.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Manipulating STRINGS_LISTS.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
