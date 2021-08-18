@@ -4,11 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="242a7f20-7944-4405-9dc6-a747622b5753" name="Default Changelist" comment="this is extra">
-      <change afterPath="$PROJECT_DIR$/.ipynb_checkpoints/REGULAR_EXPR-checkpoint.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PYTHON_NOTES/RK_NOTES/REGX.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/REGULAR_EXPR.ipynb" afterDir="false" />
+    <list default="true" id="242a7f20-7944-4405-9dc6-a747622b5753" name="Default Changelist" comment="regx">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PYTHON_NOTES/RK_NOTES/REGX.py" beforeDir="false" afterPath="$PROJECT_DIR$/PYTHON_NOTES/RK_NOTES/REGX.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -101,6 +99,9 @@
       <module name="PYPUPA" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
       <option name="SDK_HOME" value="" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Inhertance_simple" />
       <option name="IS_MODULE_SDK" value="true" />
@@ -172,7 +173,14 @@
       <option name="project" value="LOCAL" />
       <updated>1629099016160</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="regx">
+      <created>1629201635020</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1629201635020</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -190,6 +198,7 @@
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="this is extra" />
-    <option name="LAST_COMMIT_MESSAGE" value="this is extra" />
+    <MESSAGE value="regx" />
+    <option name="LAST_COMMIT_MESSAGE" value="regx" />
   </component>
 </project>
