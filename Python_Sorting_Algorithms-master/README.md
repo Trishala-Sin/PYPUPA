@@ -34,7 +34,9 @@ Merge sort is a perfectly elegant example of a Divide and Conquer algorithm. It 
 
 ## Quick Sort
 
-Like  [Merge Sort](https://en.wikipedia.org/wiki/Merge_algorithm), **QuickSort** is a Divide and Conquer algorithm. It picks an element as pivot and partitions the given array around the picked pivot. There are many different versions of quickSort that pick pivot in different ways.
+Like  [Merge Sort](https://en.wikipedia.org/wiki/Merge_algorithm), **QuickSort** is a Divide and Conquer algorithm. 
+It picks an element as pivot and partitions the given array around the picked pivot. 
+There are many different versions of quickSort that pick pivot in different ways.
 
 1.  Always pick first element as pivot.
 2.  Always pick last element as pivot (implemented below)
