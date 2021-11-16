@@ -1,3 +1,6 @@
+## Selection Sort :
+
+
 def selection_sort(input_list):
     
     for idx in range(len(input_list)):

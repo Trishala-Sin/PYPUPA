@@ -9,6 +9,6 @@ def insertion_sort(InputList):
             j=j-1
         InputList[j+1] = nxt_element
 # you can add list of any numbers
-list = [6,5,3,1,8,7,2,4]
+list = [6,5,3,1,8,7,2,3,4]
 insertion_sort(list)
 print(list)

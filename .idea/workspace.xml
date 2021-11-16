@@ -4,7 +4,17 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="242a7f20-7944-4405-9dc6-a747622b5753" name="Default Changelist" comment="regx" />
+    <list default="true" id="242a7f20-7944-4405-9dc6-a747622b5753" name="Default Changelist" comment="added sorting/Numpy">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.ipynb_checkpoints/LIST_FURTHER_MORE(SETS)-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/.ipynb_checkpoints/LIST_FURTHER_MORE(SETS)-checkpoint.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dictionary_explored.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Dictionary_explored.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LIST_FURTHER_MORE(SETS).ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/LIST_FURTHER_MORE(SETS).ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python_Sorting_Algorithms-master/Insertion_Sort.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python_Sorting_Algorithms-master/Insertion_Sort.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python_Sorting_Algorithms-master/Merge_Sort.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python_Sorting_Algorithms-master/Merge_Sort.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python_Sorting_Algorithms-master/Quick_Sort.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python_Sorting_Algorithms-master/Quick_Sort.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python_Sorting_Algorithms-master/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/Python_Sorting_Algorithms-master/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python_Sorting_Algorithms-master/Selection_Sort.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python_Sorting_Algorithms-master/Selection_Sort.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -184,7 +194,21 @@
       <option name="project" value="LOCAL" />
       <updated>1629286627331</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="added sorting/Numpy">
+      <created>1636957204910</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1636957204910</updated>
+    </task>
+    <task id="LOCAL-00006" summary="added sorting/Numpy">
+      <created>1636967905347</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1636967905431</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -203,6 +227,7 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="this is extra" />
     <MESSAGE value="regx" />
-    <option name="LAST_COMMIT_MESSAGE" value="regx" />
+    <MESSAGE value="added sorting/Numpy" />
+    <option name="LAST_COMMIT_MESSAGE" value="added sorting/Numpy" />
   </component>
 </project>
