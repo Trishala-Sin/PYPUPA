@@ -5,15 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="242a7f20-7944-4405-9dc6-a747622b5753" name="Default Changelist" comment="added sorting/Numpy">
+      <change afterPath="$PROJECT_DIR$/.ipynb_checkpoints/Panda_cookbook_practice-checkpoint.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data_Structures/Linked_list.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data_Structures/try me.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Panda_cookbook_practice.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.ipynb_checkpoints/LIST_FURTHER_MORE(SETS)-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/.ipynb_checkpoints/LIST_FURTHER_MORE(SETS)-checkpoint.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Dictionary_explored.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Dictionary_explored.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LIST_FURTHER_MORE(SETS).ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/LIST_FURTHER_MORE(SETS).ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python_Sorting_Algorithms-master/Insertion_Sort.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python_Sorting_Algorithms-master/Insertion_Sort.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python_Sorting_Algorithms-master/Merge_Sort.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python_Sorting_Algorithms-master/Merge_Sort.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python_Sorting_Algorithms-master/Quick_Sort.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python_Sorting_Algorithms-master/Quick_Sort.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python_Sorting_Algorithms-master/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/Python_Sorting_Algorithms-master/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python_Sorting_Algorithms-master/Selection_Sort.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python_Sorting_Algorithms-master/Selection_Sort.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Numpy_basics.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Numpy_basics.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,7 +56,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
-  <component name="RunManager" selected="Python.REGX">
+  <component name="RunManager" selected="Python.Linked_list">
     <configuration type="PythonConfigurationType" factoryName="Python">
       <module name="PYPUPA" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -76,6 +73,27 @@
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="true" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Linked_list" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PYPUPA" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Data_Structures" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Data_Structures/Linked_list.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
       <option name="REDIRECT_INPUT" value="false" />
       <option name="INPUT_FILE" value="" />
@@ -148,9 +166,11 @@
       <item itemvalue="Python.Single_inheritance" />
       <item itemvalue="Python.Simple2" />
       <item itemvalue="Python.REGX" />
+      <item itemvalue="Python.Linked_list" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Linked_list" />
         <item itemvalue="Python.REGX" />
         <item itemvalue="Python.Simple2" />
         <item itemvalue="Python.Simple2" />
@@ -208,7 +228,14 @@
       <option name="project" value="LOCAL" />
       <updated>1636967905431</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="added sorting/Numpy">
+      <created>1637061845601</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1637061845601</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
