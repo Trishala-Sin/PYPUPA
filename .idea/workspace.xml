@@ -5,13 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="242a7f20-7944-4405-9dc6-a747622b5753" name="Default Changelist" comment="added Data structures">
-      <change afterPath="$PROJECT_DIR$/Data_Structures/Queue.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Data_Structures/Stacks.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python_Base/Strings&amp;Dictionary.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python_Base/notes.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Class_and_object/Abstract_classes.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Data_Structures/Linked_list.py" beforeDir="false" afterPath="$PROJECT_DIR$/Data_Structures/Linked_list.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python_Base/Most_Primary_basics.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Python_Base/Most_Primary_basics.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -243,7 +238,14 @@
       <option name="project" value="LOCAL" />
       <updated>1645419644040</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="added Data structures">
+      <created>1647950715254</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1647950715254</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
