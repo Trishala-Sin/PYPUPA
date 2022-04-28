@@ -47,7 +47,14 @@ class LinkedList(object):
         Assume the first position is "1".
         Inserting at position 3 means between
         the 2nd and 3rd elements."""
-        current = 
+        current = self.head
+        pos = 1 
+        if self.head:
+            while current and pos <= position:
+                if pos == position:
+                    current = new_element
+                    new_element.next = current.next  
+                    
     
     
     def delete(self, value):

@@ -23,7 +23,7 @@ class bst():
                 self.right.insert_val(data)
             else:
                 self.right=bst(data)
- 
+  
     def in_order_traversal(self,element):
 
             

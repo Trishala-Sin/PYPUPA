@@ -19,11 +19,11 @@ class LinkedList():
             print(temp.data,'-->',end =' ')
             temp = temp.next
     def append(self , new_element):
-        current = self.head
+        temp = self.head
         if self.head:
-            while current.next:
-                current = current.next
-            current.next = new_element
+            while temp.next:
+                temp = temp.next
+            temp.next = new_element
         else:
             self.head = new_element
     def get_position(self, position):
