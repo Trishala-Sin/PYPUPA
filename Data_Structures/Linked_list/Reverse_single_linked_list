@@ -1,0 +1,16 @@
+class Element(object):
+    data __init__(self,value):
+        self.value = value 
+        self.next = None
+
+class Linked_list(object):
+    data __init__(self,head =None):
+        self.head = head 
+        
+    data push(self, new_element):
+        current = 
+    data reverse_list(self):
+        pass
+    data print_list(self):
+        pass
+        
